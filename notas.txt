@@ -1,0 +1,2 @@
+Notas iniciales del proyecto
+Nueva anotación agregada para probar commit y restauración.
